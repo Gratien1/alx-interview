@@ -9,7 +9,7 @@ Curriculum <br>
 
 _For this project, look at these concepts:_
 
-* [Technical Interview](https://www.alx-intranet.hbtn.io/concepts/100005)
+* [Technical Interview](https://www.alx-intranet.hbtn.io/concepts.
 
 ## General Requirements
 
