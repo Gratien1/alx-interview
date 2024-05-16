@@ -2,7 +2,7 @@
 
 This project contains interview coding challenges.
 
-## Tasks To Complete
+## Tasks To Complete.
 
 + [x] 0. **Prime Game**<br/>[0-prime_game.py](0-prime_game.py) contains the solution to the following challenge:
   + **INFO:**
